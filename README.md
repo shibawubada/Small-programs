@@ -1,2 +1,2 @@
 # Small-programs
-java solution
+## Some basic java programs, covering various concepts
